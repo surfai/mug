@@ -1,5 +1,6 @@
 # Welcome to Taiphi Demo
 
+## Workflow
 ```mermaid
 graph LR
   A[Start] --> B[QueryExtract];
@@ -7,5 +8,7 @@ graph LR
   C --> |Edge 2|D[Generate Summary and Instructions];
   D ---->|Edge 3| E[Output to Copilot agent];
 ```
+
+## LangGraph Documentation
 For full documentation visit   [LangGraph Documentation](https://langchain-ai.github.io/langgraph/tutorials/introduction/).
 
