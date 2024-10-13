@@ -133,5 +133,8 @@ venv.bak/
 ./site 
 
 ./.venv
+/.venv
+
+
 
 
