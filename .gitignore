@@ -132,9 +132,7 @@ venv.bak/
 
 ./site 
 
-./.venv
-/.venv
-
-
-
-
+# Virtual Environment
+.venv/
+venv/
+ENV/
